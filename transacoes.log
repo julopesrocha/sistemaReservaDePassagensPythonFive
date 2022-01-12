@@ -1,0 +1,22 @@
+2022-01-12 18:03:44,633 Rota DEBUG Rota inicializado
+2022-01-12 18:03:44,634 Rota DEBUG Rota inicializado
+2022-01-12 18:03:44,634 Rota DEBUG Rota inicializado
+2022-01-12 18:03:44,634 Rota INFO Exibe Rotas
+2022-01-12 18:03:52,529 Usuario DEBUG Usuario inicializado
+2022-01-12 18:03:55,577 Usuario DEBUG Solicita nova reserva
+2022-01-12 18:03:55,577 Usuario INFO Efetua reserva
+2022-01-12 18:03:55,578 Usuario INFO Exibe lista de reservas
+2022-01-12 18:03:57,090 Usuario DEBUG Solicita nova reserva
+2022-01-12 18:03:57,091 Usuario INFO Efetua reserva
+2022-01-12 18:03:57,091 Usuario INFO Exibe lista de reservas
+2022-01-12 18:03:58,163 Usuario DEBUG Solicita nova reserva
+2022-01-12 18:03:58,163 Usuario INFO Efetua reserva
+2022-01-12 18:03:58,163 Usuario INFO Exibe lista de reservas
+2022-01-12 18:04:00,709 Usuario DEBUG Solicita cancelamento de reserva
+2022-01-12 18:04:00,709 Usuario INFO Lista de reservas
+2022-01-12 18:04:00,709 Usuario INFO Cancela reserva
+2022-01-12 18:04:00,709 Usuario INFO Exibe lista de reservas
+2022-01-12 18:04:03,010 Usuario INFO Finaliza transações
+2022-01-12 18:04:03,010 Usuario INFO Acessa reserva
+2022-01-12 18:04:03,011 Usuario INFO Acessa reserva
+2022-01-12 18:04:03,011 Usuario INFO Acessa reserva
